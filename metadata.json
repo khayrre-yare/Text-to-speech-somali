@@ -1,0 +1,6 @@
+{
+  "name": "Codka Soomaaliga AI - Natural Somali Voice Synthesis",
+  "description": "Professional, crystal-clear Somali text-to-speech with natural human-like voice synthesis, grammar optimization, and audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
